@@ -1,8 +1,7 @@
-/* eslint-disable import/extensions */
 // import React from 'react'
 
 import './Header.scss'
-import images from '../../constants/images.js'
+import { images } from '../../constants'
 import { SubHeading } from '../../components'
 
 const Header = () => {

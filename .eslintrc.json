@@ -50,7 +50,8 @@
       "error","ignorePackages",
       {
         "ts": "never",
-        "tsx": "never"
+        "tsx": "never",
+        "js": "never"
       }
     ],
     "react/jsx-filename-extension": [
